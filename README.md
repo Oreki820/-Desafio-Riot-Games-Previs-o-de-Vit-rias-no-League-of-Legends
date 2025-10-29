@@ -8,6 +8,11 @@ A proposta reproduz um **pipeline completo de Machine Learning**, desde a explor
 
 ---
 
+## 📊 Acesse o Dashboard Interativo
+[![Ver no Looker Studio](https://img.shields.io/badge/LoL%20Dashboard%20-%20Abrir%20Painel-blueviolet?style=for-the-badge&logo=googledatastudio)](LINK_DO_DASHBOARD)
+
+---
+
 ## ⚙️ Objetivos
 
 - 📊 Desenvolver um **modelo de classificação** capaz de prever o vencedor da partida.
