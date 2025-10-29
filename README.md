@@ -9,7 +9,8 @@ A proposta reproduz um **pipeline completo de Machine Learning**, desde a explor
 ---
 
 ## 📊 Acesse o Dashboard Interativo
-[![Ver no Looker Studio](https://img.shields.io/badge/LoL%20Dashboard%20-%20Abrir%20Painel-blueviolet?style=for-the-badge&logo=googledatastudio)]([[https://lookerstudio.google.com/reporting/68d538d5-b85f-47f7-aaf4-4367a07555c1])
+[![Ver no Looker Studio](https://img.shields.io/badge/LoL%20Dashboard%20-%20Abrir%20Painel-blueviolet?style=for-the-badge&logo=googledatastudio)]((https://lookerstudio.google.com/reporting/68d538d5-b85f-47f7-aaf4-4367a07555c1))]
+
 
 ---
 
