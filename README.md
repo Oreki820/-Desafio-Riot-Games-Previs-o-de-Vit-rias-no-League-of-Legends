@@ -30,7 +30,6 @@ A proposta reproduz um **pipeline completo de Machine Learning**, desde a explor
 | **6️⃣ Validação Cruzada** | Uso de `KFold` para medir estabilidade dos modelos. |
 | **7️⃣ Interpretação** | Importância das variáveis via Árvore de Decisão. |
 | **8️⃣ Otimização** | Modelos **RandomForest** e **GradientBoosting** como benchmarks. |
-| **9️⃣ Conclusões** | Resumo técnico + recomendações de negócio. |
 
 ---
 
@@ -73,12 +72,6 @@ A proposta reproduz um **pipeline completo de Machine Learning**, desde a explor
 
 ## 📈 Curvas ROC — Comparativo
 
-### 🧩 Modelos Básicos
-![Curva ROC - Modelos Básicos](./images/roc_basicos.png)
-
-### 🌲 Modelos Otimizados
-![Curva ROC - Modelos Otimizados](./images/roc_otimizados.png)
-
 Ambos os ensembles (**RandomForest e GradientBoosting**) mantêm **AUC acima de 0.80**, confirmando excelente poder de separação.
 
 ---
@@ -90,7 +83,7 @@ Ambos os ensembles (**RandomForest e GradientBoosting**) mantêm **AUC acima de 
 | 🐍 Linguagem | Python 3.10 |
 | 📚 Bibliotecas | pandas, numpy, matplotlib, seaborn, scikit-learn |
 | 🔬 Ambiente | Google Colab |
-| 📊 Visualização | matplotlib, seaborn, plotly (opcional) |
+| 📊 Visualização | matplotlib, seaborn, plotly |
 | 🧠 Modelagem | LogisticRegression, GaussianNB, DecisionTree, RandomForest, GradientBoosting |
 | 🧪 Validação | KFold, cross_val_score |
 | 🗂️ Dataset | Fornecido pela Riot Games (dados simulados de partidas LoL) |
@@ -107,20 +100,11 @@ Ambos os ensembles (**RandomForest e GradientBoosting**) mantêm **AUC acima de 
 
 ---
 
-## 🧭 Próximos Passos
-
-1. **Dashboard Interativo (Looker Studio)** → visualização das métricas, taxas de vitória e importâncias de features.  
-2. **Hiperajuste (GridSearchCV)** → melhorar desempenho dos ensembles.  
-3. **Análise temporal** → evolução de vantagens minuto a minuto.  
-4. **Deploy do modelo** → em app Streamlit ou API Flask para previsões em tempo real.
-
----
-
 ## 🧑‍💻 Autor
 
-**👤 Lucas Gabriel Ferreira Gomes (Oreki820)**  
+**👤 Lucas Gabriel Ferreira Gomes**  
 📍 Santana do Livramento, RS – Brasil  
-🎓 Cientista de Dados | EBAC & WorldQuant University  
+🎓 Cientista de Dados
 🌐 [LinkedIn](www.linkedin.com/in/lucas-gabriel-dados) | [GitHub](https://github.com/Oreki820)
 
 ---
